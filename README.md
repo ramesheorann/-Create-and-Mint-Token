@@ -23,8 +23,13 @@ The `_mint function` is then used to create and assign tokens to the contract de
 8. You can also see details about the `token name`, `token symbol`, `total supply`, `decimals` etc.
 
 ## Authors
-Ramesh 
-[@ramesh](https://www.linkedin.com/in/ramesheorann/)
+[Ramesh](https://www.linkedin.com/in/ramesheorann/)
+
 
 ## License
-KokuCoin Contract is released under the [MIT License](LICENSE).
+
+This project is released under the [MIT License](LICENSE).
+
+## Credits
+
+This project is a solution to the project task provided by [MetaCrafters](https://www.metacrafters.io/).
