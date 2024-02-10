@@ -1,7 +1,7 @@
 # Create and Mint Token Project(Koku Coin Token)
 
 ## Description
-This is simple ERC20 Standers Token named as `Koku Coin` with symbol `KUK` in this token the contract owner is able to mint tokens to a provided address and any user is able to burn and transfer tokens.
+This is simple ERC20 Standerds Token named as `Koku Coin` with symbol `KUK` in this token the contract owner is able to mint tokens to a provided address and any user is able to burn and transfer tokens.
 
 ## Code Explaination
 Imported two contracts from the `OpenZeppelin` library. `ERC20.sol` provides the base implementation for the ERC20 token standard, and `Ownable.sol` provides functionality to manage ownership of the contract.<br/>
@@ -24,7 +24,7 @@ The `_mint function` is then used to create and assign tokens to the contract de
 
 ## Authors
 Ramesh 
-[@ramesh](https://www.linkedin.com/in/sonusheorann/)
+[@ramesh](https://www.linkedin.com/in/ramesheorann/)
 
 ## License
 KokuCoin Contract is released under the [MIT License](LICENSE).
