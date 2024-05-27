@@ -9,7 +9,7 @@ Then defined `KokuCoin` contract, which inherits from the ERC20 and Ownable cont
 Then defined a `constructor` which calls the constructor of the ERC20 contract, passing in the token name `"Koku Coin"` and symbol `"KUK"`. <br/>
 The `_mint function` is then used to create and assign tokens to the contract deployer's address, and passed the total supply and decimal value.<br/>
 `mint function` allows the contract owner to mint (create) new tokens and assign them to a specified address. The onlyOwner modifier, inherited from the Ownable contract, ensures that only the contract owner can call this function.<br/>
-`burn function` allows any token holder to burn (destroy) a certain amount of their tokens. The _burn function is used to remove the specified amount of tokens from the caller's balance.<br/>
+`burn function` allows any token holder to burn (destroy) a certain amount of their tokens. The _burn function is used to remove the specified amount of tokens from the caller's balance. <br/>
 `decimals function` overrides the decimals() function from the ERC20 contract. It provides a customized number of decimal places for the token. In this case, it returns 15 as the number of decimal places.<br/>
 
 ## Getting Started
